@@ -12,6 +12,7 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
   * And the [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) ```#onboarding```
 
 ## 2) Scrum
+* The official [Scrum guide](https://www.scrumguides.org/scrum-guide.html) ```#onboarding```
 * Everything you should learn about [retrospective](https://retromat.org/blog/getting-started-with-retrospectives/) ```#onboarding```
 * About [sprint review](https://medium.com/@anca_51481/12-things-you-must-know-about-the-sprint-review-e57cfea4da3d) ```#onboarding```
 * The importance to have the [real customer](https://medium.com/serious-scrum/scrum-teams-need-to-know-their-real-customers-ec52cf71c717) at the sprint review
