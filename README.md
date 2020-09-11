@@ -23,6 +23,7 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
 * [Myths about Scrum Master](https://vimeo.com/414450263) meetup with Pierluigi Pugliese in italian   ```#onboarding```
 * [Inspiration & plan for Agile retrospective](https://retromat.org/en/)
 * [Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
+* [Full-time Scrum Master](https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf) a daily TODO list for scrum masters.
 
 ## 4) User Stories
 * [Essential XP: Card, Conversation, Confirmation](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) The essence of a User Story and Acceptance Test ```#onboarding```
