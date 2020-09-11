@@ -24,3 +24,5 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
 * [Inspiration & plan for Agile retrospective](https://retromat.org/en/)
 * [Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
 
+## 4) User Stories
+* [Essential XP: Card, Conversation, Confirmation](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) The essence of a User Story and Acceptance Test ```#onboarding```
