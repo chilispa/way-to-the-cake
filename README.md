@@ -27,3 +27,6 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
 
 ## 4) User Stories
 * [Essential XP: Card, Conversation, Confirmation](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) The essence of a User Story and Acceptance Test ```#onboarding```
+
+## 5) Zombie Scrum
+* [How to succeed with Zombie Scrum](https://medium.com/the-liberators/how-to-succeed-with-zombie-scrum-aa0444f806e5
