@@ -17,7 +17,8 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
 * About [sprint review](https://medium.com/@anca_51481/12-things-you-must-know-about-the-sprint-review-e57cfea4da3d) ```#onboarding```
 * The importance to have the [real customer](https://medium.com/serious-scrum/scrum-teams-need-to-know-their-real-customers-ec52cf71c717) at the sprint review
 * [How to succeed with Zombie Scrum](https://medium.com/the-liberators/how-to-succeed-with-zombie-scrum-aa0444f806e5) A sarcastic list of tricks to improve your Zombie Scrum
-* Scaling Agile with Large-Scale Scrum (LeSS) [Craig Larman Keynote at Ericsonn](https://www.youtube.com/watch?v=Gw1lLt18KzE&ab_channel=CraigLarman)
+* Scaling Agile with Large-Scale Scrum (LeSS) [Craig Larman Keynote video at Ericsonn](https://www.youtube.com/watch?v=Gw1lLt18KzE&ab_channel=CraigLarman)
+* [Feature Teams](https://less.works/less/structure/feature-teams) vs Component Teams (LeSS)
 
 ## 3) Scrum Master
 * [70 theses](https://age-of-product.com/70-scrum-master-theses/) about Scrum Master that describe your role. ```#onboarding```
