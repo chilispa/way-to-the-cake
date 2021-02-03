@@ -7,6 +7,11 @@ This path will give you the resources to take you from having a basic knowledge 
 
 Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-orione) thank you @xpeppers.
 
+## 0) Change Agent
+You wanna be a "change agent"? Then this is the best way to start.  
+Do you consider yourself a "change agent"? Then you might want to make sure you learned some lessons.
+* [Confession of a Change Agent Henrik Kniberg](https://www.youtube.com/watch?v=c1W6U2duXdI&ab_channel=ScrumUkraine)
+
 ## 1) Agile
 * Of course the [Agile Manifesto](https://agilemanifesto.org/) ```#onboarding```
   * And the [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) ```#onboarding```
