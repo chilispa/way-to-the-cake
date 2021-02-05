@@ -31,3 +31,7 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
 
 ## 4) User Stories
 * [Essential XP: Card, Conversation, Confirmation](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) The essence of a User Story and Acceptance Test ```#onboarding```
+
+## 5) Books
+* [Agile Retrospectives: Making Good Teams Great](https://www.amazon.it/gp/product/0977616649/)
+* [Nonviolent Communication: A Language of Life](https://www.amazon.it/gp/product/189200528X)
