@@ -41,6 +41,7 @@ Do you consider yourself a "change agent"? Then you might want to make sure you 
 
 ## User Stories
 * [Essential XP: Card, Conversation, Confirmation](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) The essence of a User Story and Acceptance Test ```#onboarding```
+* Where to start and how to split development in User Stories: [Responsive design and analysis XP](https://www.youtube.com/watch?v=4L9aL_W-Uo0) by Matteo Vaccari
 
 ## Books
 * [Agile Retrospectives: Making Good Teams Great](https://www.amazon.it/gp/product/0977616649/)
