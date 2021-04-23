@@ -16,10 +16,8 @@ Do you consider yourself a "change agent"? Then you might want to make sure you 
 * Of course the [Agile Manifesto](https://agilemanifesto.org/) ```#onboarding```
   * And the [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) ```#onboarding```
 
-## Technical practices
-* [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
-* [Integrated Tests Are A Scam - J.B. Rainsberger](https://vimeo.com/80533536)
-* [The Four Elements of Simple Design - J.B. Rainsberger](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+## Learning Path
+We support continuous learning through our [learning path](learning-path.md)
 
 ## Scrum
 * The official [Scrum guide](https://www.scrumguides.org/scrum-guide.html) ```#onboarding```
