@@ -1,6 +1,6 @@
 # Learning Path
 We do 2 week long study iterations. 
-At the end of the iteration we discuss what we have studied in order to align, check if we understand and ask ourselves questions on how to improve our daily work.
+At the end of each iteration we discuss what we have studied in order to align, check if we understand and ask ourselves questions on how to improve our daily work.
 
 ## Iteration 1
 * [Keep It DRY, Shy, and Tell the Other Guy - Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
