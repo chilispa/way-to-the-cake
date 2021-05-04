@@ -16,3 +16,8 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [Iterative and Incremental Development (IID) - Robert Martin](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf)
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development - J.B. Rainsberger](https://www.youtube.com/watch?v=WSes_PexXcA)
 * [The Cycles of TDD - Robert Martin](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+
+## Iteration 4
+* [Low Coupling, High Cohesion - Ivan Montiel](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)
+* [Tennis Refactoring Kata - Emily Bache](https://github.com/fracassi-marco/tennis-refactoring-kata-java)
+* [Keynote Italina Agile Day 2010 - Paolo Perrotta](https://vimeo.com/96382289)
