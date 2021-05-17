@@ -21,3 +21,16 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [Low Coupling, High Cohesion - Ivan Montiel](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)
 * [Tennis Refactoring Kata - Emily Bache](https://github.com/fracassi-marco/tennis-refactoring-kata-java)
 * [Keynote Italina Agile Day 2010 - Paolo Perrotta](https://vimeo.com/96382289)
+
+## Iteration 5
+* [Refactoring (chapter 2) - Martin Fowler](https://amzn.to/3fyboRY)
+  * Defining Refactoring
+  * Why should you refactor?
+  * When should you refactor?
+  * What do I tell my manager?
+  * Problems with refactoring
+  * Refactoring and design
+  * Refactoring and performance
+  * Where did refactoring come from?
+* [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)
+
