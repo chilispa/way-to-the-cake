@@ -34,3 +34,17 @@ At the end of each iteration we discuss what we have studied in order to align, 
   * Where did refactoring come from?
 * [Gli schiacciatori NON parlano dell'alzata, la risolvono - Julio Velasco](https://www.youtube.com/watch?v=5RXX-PiifXY)
 
+## Iteration 6
+* [Refactoring (chapter 3) Bad smells in code- Martin Fowler](https://amzn.to/3fyboRY)
+
+## Iteration 7
+* [Tennis Refactoring Kata - Emily Bache](https://github.com/fracassi-marco/tennis-refactoring-kata-java) with Calisthenics rules
+  1. One level of indentation per method
+  2. Don’t use the ELSE keyword
+  3. Wrap all primitives and Strings
+  4. First class collections
+  5. One dot per line
+  6. Don’t abbreviate
+  7. Keep all entities small (50 lines)
+  8. No classes with more than two instance variables
+  9. No getters/setters/properties
