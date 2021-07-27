@@ -28,10 +28,13 @@ Freely inspired by [Starway-to-orione](https://github.com/xpeppers/starway-to-or
 * [Shu-Ha-Ri](https://www.scrum.org/resources/blog/shu-ha-ri-professional-coaching) methodology inspired by Aikido masters to teach how to be agile at the scrum team.
 * [Full-time Scrum Master](https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf) a daily TODO list for scrum masters.
 * [Three mistakes Scrum Master usually do](https://www.mountaingoatsoftware.com/blog/three-mistakes-scrum-masters-make-and-how-to-correct-them) and how to fix them.
+* [Gli schiacciatori NON parlano dell'alzata, la risolvono](https://www.youtube.com/watch?v=5RXX-PiifXY)
 
 ## 4) User Stories
 * [Essential XP: Card, Conversation, Confirmation](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) The essence of a User Story and Acceptance Test ```#onboarding```
 
 ## 5) Books
+* [Large-Scale Scrum: More with LeSS](https://www.amazon.it/Large-Scale-Scrum-More-Less-Signature/dp/0321985710)
 * [Agile Retrospectives: Making Good Teams Great](https://www.amazon.it/gp/product/0977616649/)
+* [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.it/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
 * [Nonviolent Communication: A Language of Life](https://www.amazon.it/gp/product/189200528X)
