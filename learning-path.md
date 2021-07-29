@@ -49,5 +49,5 @@ At the end of each iteration we discuss what we have studied in order to align, 
   8. No classes with more than two instance variables
   9. No getters/setters/properties
 
-# Backlog
+## Iteration 8
 * [Feature Toggles (aka Feature Flags) - Martin Fowler](https://martinfowler.com/articles/feature-toggles.html)
