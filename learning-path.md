@@ -50,4 +50,4 @@ At the end of each iteration we discuss what we have studied in order to align, 
   9. No getters/setters/properties
 
 ## Iteration 8
-* [Feature Toggles (aka Feature Flags) - Martin Fowler](https://martinfowler.com/articles/feature-toggles.html)
+* [Feature Toggles (aka Feature Flags) - Pete Hodgson](https://martinfowler.com/articles/feature-toggles.html)
