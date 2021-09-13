@@ -55,3 +55,8 @@ At the end of each iteration we discuss what we have studied in order to align, 
 ## Iteration 9
 * [The Open-Close principle](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_ocp.pdf)
 * [The Single Responsibility principle](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_srp.pdf)
+
+## Iteration 10
+[Design Pattern: Template Method Design Pattern](https://refactoring.guru/design-patterns/template-method)
+[Design Pattern: Strategy](https://refactoring.guru/design-patterns/strategy)
+[Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/design_principles_and_design_patterns.pdf)
