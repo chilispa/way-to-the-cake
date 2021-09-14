@@ -57,6 +57,6 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [The Single Responsibility principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_srp.pdf)
 
 ## Iteration 10
-* [Design Pattern: Template Method](https://refactoring.guru/design-patterns/template-method)
-* [Design Pattern: Strategy](https://refactoring.guru/design-patterns/strategy)
+* [Design Pattern: Template Method - Alexander Shvets](https://refactoring.guru/design-patterns/template-method)
+* [Design Pattern: Strategy - Alexander Shvets](https://refactoring.guru/design-patterns/strategy)
 * [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf)
