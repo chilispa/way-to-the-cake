@@ -53,8 +53,8 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [Feature Toggles (aka Feature Flags) - Pete Hodgson](https://martinfowler.com/articles/feature-toggles.html)
 
 ## Iteration 9
-* [The Open-Close principle](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_ocp.pdf)
-* [The Single Responsibility principle](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_srp.pdf)
+* [The Open-Close principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_ocp.pdf)
+* [The Single Responsibility principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_srp.pdf)
 
 ## Iteration 10
 * [Design Pattern: Template Method](https://refactoring.guru/design-patterns/template-method)
