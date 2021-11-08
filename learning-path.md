@@ -19,7 +19,7 @@ At the end of each iteration we discuss what we have studied in order to align, 
 
 ## Iteration 4
 * [Low Coupling, High Cohesion - Ivan Montiel](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)
-* [Tennis Refactoring Kata - Emily Bache](https://github.com/fracassi-marco/tennis-refactoring-kata-java)
+* [Tennis Refactoring Kata - Emily Bache](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * [Keynote Italina Agile Day 2010 - Paolo Perrotta](https://vimeo.com/96382289)
 
 ## Iteration 5
