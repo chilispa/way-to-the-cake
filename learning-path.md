@@ -56,7 +56,10 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [The Open-Close principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_ocp.pdf)
 * [The Single Responsibility (principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_srp.pdf)
 
-## Iteration 10
+## iterazione 10
+* [Accelerare lo sviluppo con il Simple Design - Matteo Vaccari](https://www.youtube.com/watch?v=mA9XIxyR1OU&t=2456s&ab_channel=ShareIT)
+
+## Iteration 11
 * [Design Pattern: Template Method - Alexander Shvets](https://refactoring.guru/design-patterns/template-method)
 * [Design Pattern: Strategy - Alexander Shvets](https://refactoring.guru/design-patterns/strategy)
 * [Design Pattern: Decorator - Alexander Shvets](https://refactoring.guru/design-patterns/decorator)
