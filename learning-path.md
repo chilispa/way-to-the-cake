@@ -56,7 +56,7 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [The Open-Close principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_ocp.pdf)
 * [The Single Responsibility (principle - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/solid_srp.pdf)
 
-## iterazione 10
+## Iteration 10
 * [Accelerare lo sviluppo con il Simple Design - Matteo Vaccari](https://www.youtube.com/watch?v=mA9XIxyR1OU&t=2456s&ab_channel=ShareIT)
 
 ## Iteration 11
