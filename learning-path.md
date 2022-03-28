@@ -60,6 +60,9 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [Accelerare lo sviluppo con il Simple Design - Matteo Vaccari](https://www.youtube.com/watch?v=mA9XIxyR1OU&t=2456s&ab_channel=ShareIT)
 
 ## Iteration 11
+* [The OCP kata (Bowling Score) - Matteo Vaccari](http://matteo.vaccari.name/blog/archives/293)
+
+## Iteration 12
 * [Design Pattern: Template Method - Alexander Shvets](https://refactoring.guru/design-patterns/template-method)
 * [Design Pattern: Strategy - Alexander Shvets](https://refactoring.guru/design-patterns/strategy)
 * [Design Pattern: Decorator - Alexander Shvets](https://refactoring.guru/design-patterns/decorator)
