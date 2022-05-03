@@ -67,5 +67,8 @@ At the end of each iteration we discuss what we have studied in order to align, 
 * [Design Pattern: Strategy - Alexander Shvets](https://refactoring.guru/design-patterns/strategy)
 * [Design Pattern: Decorator - Alexander Shvets](https://refactoring.guru/design-patterns/decorator)
 
+## Iteration 13
+* [DIP in the Wild - Brett Schuchert](https://martinfowler.com/articles/dipInTheWild.html)
+
 ## Backlog
 * [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf)
