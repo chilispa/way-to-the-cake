@@ -70,5 +70,8 @@ At the end of each iteration we discuss what we have studied in order to align, 
 ## Iteration 13
 * [DIP in the Wild - Brett Schuchert](https://martinfowler.com/articles/dipInTheWild.html)
 
+## Iteration 14
+* [Birthday Greetings Kata](https://github.com/xpmatteo/birthday-greetings-kata)
+
 ## Backlog
 * [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf)
