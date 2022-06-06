@@ -73,5 +73,8 @@ At the end of each iteration we discuss what we have studied in order to align, 
 ## Iteration 14
 * [Birthday Greetings Kata](https://github.com/xpmatteo/birthday-greetings-kata)
 
+## Iteration 15
+* [Onion Architecture - Matteo Di Tucci](https://www.youtube.com/watch?v=VjNrqU40qH4)
+
 ## Backlog
 * [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf)
