@@ -78,3 +78,4 @@ At the end of each iteration we discuss what we have studied in order to align, 
 
 ## Backlog
 * [Symptoms of Rotting Design - Robert Martin](https://github.com/fracassi-marco/study-path/blob/master/resources/design_principles_and_design_patterns.pdf)
+* [The Clean Architecture - Robert Martin](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
